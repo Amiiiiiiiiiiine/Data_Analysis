@@ -1,4 +1,4 @@
-Ce dossier GitHub contient une sélection de projets réalisés en tant que Data Analyst, démontrant mes compétences et mon expertise dans l'analyse de données. 
+Ce dossier GitHub contient une sélection de projets réalisés démontrant mes compétences et mon expertise dans l'analyse de données. 
 
 Les projets couvrent divers domaines et ont été réalisés en utilisant différents outils et technologies tels que Tableau, Power BI, et Snowflake, sans oublier le language SQL.
 
